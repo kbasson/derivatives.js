@@ -3,4 +3,4 @@ Javascript module that contains a function called get_derivative() which finds t
 In order to take a partial derivative with respect to x, replace y values with constant variable 'f'.
 In order to take a partial derivative with respect to y, replace x values with constant variable 'f' and replace y values with 'x'.
 
-Call get_derivative() and pass the mathematical equation to get it's derivative!
+Call get_derivative() and pass the mathematical equation to get the derivative!
