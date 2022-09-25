@@ -1,5 +1,6 @@
-Javascript module that finds the derivative of a valid mathematical function y = f(x) using recursion. This algorithm finds the derivative of y with
-respect to x, so the entered equation must be in terms of x only.
+Javascript module that contains a function called get_derivative() which finds the derivative of a valid mathematical function y = f(x) using recursion and returns it. This algorithm finds the derivative of y with respect to x, so the entered equation must be in terms of x only.
 
 In order to take a partial derivative with respect to x, replace y values with constant variable 'f'.
 In order to take a partial derivative with respect to y, replace x values with constant variable 'f' and replace y values with 'x'.
+
+Call get_derivative() and pass the mathematical equation to get it's derivative!
